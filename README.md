@@ -1,6 +1,4 @@
-# nest-user-auth
-
-![last commit](https://img.shields.io/github/last-commit/EricKit/nest-user-auth.svg) ![repo size](https://img.shields.io/github/repo-size/EricKit/nest-user-auth.svg) ![open issues](https://img.shields.io/github/issues-raw/EricKit/nest-user-auth.svg) ![liscense](https://img.shields.io/github/license/erickit/nest-user-auth.svg)
+# nest-jwt
 
 If this project helps you, please add a star! If you see an issue, please post it!
 
